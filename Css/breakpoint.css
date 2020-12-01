@@ -1,0 +1,36 @@
+body {
+  background-image: url('breakpoint.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+.lol{
+	 color: yellow;
+}
+.h
+{
+	color: white; 
+	text-align: center;
+}
+.im
+{
+	width:500px;
+	height:300px;
+}
+.a1
+{
+	color: yellow;
+}
+.m
+{
+	color: yellow;
+}
+.one {
+  border-style: solid;
+  border-color: red;
+}
+.two {
+  border-style: solid;
+  border-color: red;
+}
+
